@@ -1,1 +1,1 @@
-We use simple, multiple, and polynomial linear regression models to predict car prices. Additionally, we use logistic regression and K-Nearest Neighbors (KNN) algorithms to predict chronic kidney disease
+We use simple, multiple, and polynomial linear regression models to predict car prices.
