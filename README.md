@@ -3,8 +3,8 @@ We use simple, multiple, and polynomial linear regression models to predict car 
 
 team members
  
- Alshimaa Sobhy 
+  Alshimaa Sobhy 
  
- Amr Nagy 
+  Amr Nagy 
 
- Osama Mohamed
+  Osama Mohamed
